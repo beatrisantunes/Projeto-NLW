@@ -1,12 +1,11 @@
 # NLW eSports
 
-![preview](./.github/preview.png)
-
+![image](https://user-images.githubusercontent.com/79115923/190873200-e6c11e07-f5eb-4a3d-a4d8-4854c46c5aec.png)
 > Trilha Explorer
 
 Projeto construído do evento Next Level Week da Rocketseat.
 
-[🔗 Clique aqui para acessar](https://maykbrito.github.io/nlw-esports-explorer/)
+[🔗 Clique aqui para acessar](https://beatrisantunes.github.io/Projeto-NLW/)
 
 
 ## 🛠 Tecnologias
@@ -15,6 +14,3 @@ Projeto construído do evento Next Level Week da Rocketseat.
 - CSS
 - Git e Github
 
-## 💛 Contato
-
-maykbrito@gmail.com
