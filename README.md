@@ -16,6 +16,6 @@ Projeto construído do evento Next Level Week da Rocketseat.
 - Git e Github
 
 ## 🔗Link:
-[🔗 Site ](https://beatrisantunes.github.io/Projeto-NLW/)
+[Site ](https://beatrisantunes.github.io/Projeto-NLW/)
 
 
